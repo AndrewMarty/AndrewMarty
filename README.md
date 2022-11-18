@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndrewMarty
+- 👋 Hi, I’m Andrew
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning vue.js, js
 <!-- - 💞️ I’m looking to collaborate on ... -->
