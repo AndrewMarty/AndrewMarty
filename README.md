@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndrewMarty
-- 👀 I’m interested in fronten
+- 👀 I’m interested in frontend
 - 🌱 I’m currently learning vue.js, js
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me https://t.me/Andrey_marty.
