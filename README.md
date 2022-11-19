@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning vue.js, js
+- 🌱 I’m currently learning vue.js
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me https://t.me/Andrey_marty.
 
