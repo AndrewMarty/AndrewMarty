@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Andrew
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning vue.js
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me https://t.me/Andrey_marty.
+### Languages and Tools:
 
-<!---
-AndrewMarty/AndrewMarty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<code>![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)</code>
+<code>![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)</code>
+<code>![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor)</code>
+
+### Status
+
+<code>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMarty&langs_count=4&show_icons=true&bg_color=00000000&title_color=fff&icon_color=ff7a45&text_color=8c8c8c)</code>
+
+<code>![GitHub](https://github-readme-stats.vercel.app/api?username=AndrewMarty&show_icons=true&bg_color=00000000&title_color=fff&icon_color=ff7a45&text_color=8c8c8c)</code>
+
+### Follow Me:
+
+<code>[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Andrey_marty)</code>
