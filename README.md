@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="100%" height="250px" />
 <h3 align="center">
 Hi there, I'm Andrew 👋
 </h3>
