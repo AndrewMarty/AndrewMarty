@@ -47,4 +47,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=AndrewMarty)](https://github.com/AndrewMarty)
+![Andrew github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMarty&layout=compact)
+<br>
+[![Andrew github stats](https://github-readme-stats.vercel.app/api?username=AndrewMarty)](https://github.com/AndrewMarty)
+
