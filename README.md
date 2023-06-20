@@ -8,18 +8,20 @@ I'm a Front-end Web Developer 💻!
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people.
-
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+### :man_technologist: About Me :
+I am a Front-end Web Developer💻.
+- :telescope: I’m working on freelance.
 
-- freelance
+- :seedling: Node.js & Wordpress.
 
-## 🌱 I'm currently learning
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- Node.Js & Wordpress
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-martynkevich-74327a275/)
 
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
+</br>
 ## 💼 Technical Skills
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
