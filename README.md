@@ -18,7 +18,7 @@ I am a Front-end Web Developer💻.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-martynkevich-74327a275/)
+- :mailbox:How to reach me: <a href="https://t.me/Andrey_marty">✉️</a>
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 </br>
