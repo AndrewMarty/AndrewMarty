@@ -6,7 +6,6 @@ Hi there, I'm Andrew 👋
 I'm a Front-end Web Developer 💻!
 </h2> 
 <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="100%" height="250px" />
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people.
 </br>
 
 ### :man_technologist: About Me :
