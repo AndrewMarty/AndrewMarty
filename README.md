@@ -44,11 +44,11 @@ I love the entire process of developing creative websites. I love the challenge 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 GitHub Stats 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndrewMarty&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Andrew github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMarty&layout=compact)
-<br>
-[![Andrew github stats](https://github-readme-stats.vercel.app/api?username=AndrewMarty)](https://github.com/AndrewMarty)
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMarty&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
