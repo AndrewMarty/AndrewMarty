@@ -7,7 +7,7 @@ I'm a Front-end Web Developer 💻!
 </h2> 
 <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="100%" height="250px" />
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 I am a Front-end Web Developer💻.
 - :telescope: I’m working on freelance.
 
