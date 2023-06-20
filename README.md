@@ -16,7 +16,7 @@ I am a Front-end Web Developer💻.
 
 - :seedling: Node.js & Wordpress.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I read tech articles and help people on habr.
 
 - :mailbox:How to reach me: <a href="https://t.me/Andrey_marty">✉️</a>
 
