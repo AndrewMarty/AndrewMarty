@@ -11,7 +11,7 @@ I'm a Front-end Web Developer 💻!
 I am a Front-end Web Developer💻.
 - :telescope: I’m working on freelance.
 
-- :seedling: Node.js & Wordpress.
+- :seedling: Node.js.
 
 - :zap: In my free time, I read tech articles and help people on habr.
 
